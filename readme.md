@@ -7,7 +7,7 @@
 
 ## 使用步驟
 
-0. 請至右方 Release 下載 CodeTemplates 資料夾
+0. 請下載 https://github.com/leojudya/MVC_Customize_Template/releases/download/v1.0.0/CodeTemplates.zip 並解壓縮出 CodeTemplates 資料夾
 
 1. 將 CodeTemplates 資料夾加入至專案資料夾根目錄底下
 
