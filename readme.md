@@ -2,7 +2,7 @@
 
 ## 使用步驟 [Video Link: https://www.youtube.com/watch?v=YhDYvHQcemY]
 
-
+### 此版本只有改 Create, Edit 此兩頁, 其餘麻煩自己更改!!
 
 1. 請按CODE按鈕 -> 按下 Open With Visual Studio
 
