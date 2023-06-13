@@ -1,28 +1,20 @@
 # MVC自訂TEMPLATE
 
-## 已修改項目
-
-1. Create
-2. Edit
-
 ## 使用步驟
 
-0. 請下載 https://github.com/leojudya/MVC_Customize_Template/releases/download/v1.0.0/CodeTemplates.zip 並解壓縮出 CodeTemplates 資料夾
+1. 請按CODE按鈕 -> 按下 Open With Visual Studio
 
-1. 將 CodeTemplates 資料夾加入至專案資料夾根目錄底下
+![image](https://github.com/leojudya/MVC_Customize_Template/assets/30649532/2acf4a93-4179-4cb9-a7e8-c1c33ebf51c3)
 
-![Alt text](image.png)
+2. 按下複製儲存庫
+
+3. 在Visual Studio 找到 CodeTemplates資料夾的路徑
+
+![image](https://github.com/leojudya/MVC_Customize_Template/assets/30649532/aad34179-6f38-410a-8de3-dc728c852f13)
 
 
-2. 顯示所有檔案, 把 CodeTemplates 內的檔案通通加入專案
+4. 將 CodeTemplates 資料夾 移到自己的專案資料夾, 應該就可以使用了
 
-![Alt text](image-1.png)
-
-3. 重新建置專案
-
-## 修改樣本
-
-* 修改 CodeTemplates\MvcView\{Action}.cs.t4 成自己想要的樣子 e.g. create.cs.t4
 
 ## References
 
