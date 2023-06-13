@@ -7,6 +7,8 @@
 
 ## 使用步驟
 
+0. 執行 Run.bat
+
 1. 將 CodeTemplates 資料夾加入至專案資料夾根目錄底下
 
 ![Alt text](image.png)
