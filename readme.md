@@ -24,6 +24,6 @@
 
 ## References
 
-https://www.credera.com/insights/create-custom-scaffold-templates-asp-net-mvc
-https://www.c-sharpcorner.com/UploadFile/4fcb5a/step-by-step-implementing-t4-custom-templates-in-mvc5-projec/
-https://www.cnblogs.com/zcm123/p/5343813.html
+1. https://www.credera.com/insights/create-custom-scaffold-templates-asp-net-mvc
+2. https://www.c-sharpcorner.com/UploadFile/4fcb5a/step-by-step-implementing-t4-custom-templates-in-mvc5-projec/
+3. https://www.cnblogs.com/zcm123/p/5343813.html
