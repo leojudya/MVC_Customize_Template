@@ -7,7 +7,7 @@
 
 ## 使用步驟
 
-0. 執行 Run.bat
+0. 請至右方 Release 下載 CodeTemplates 資料夾
 
 1. 將 CodeTemplates 資料夾加入至專案資料夾根目錄底下
 
