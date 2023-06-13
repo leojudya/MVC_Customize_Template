@@ -21,3 +21,9 @@
 ## 修改樣本
 
 * 修改 CodeTemplates\MvcView\{Action}.cs.t4 成自己想要的樣子 e.g. create.cs.t4
+
+## References
+
+https://www.credera.com/insights/create-custom-scaffold-templates-asp-net-mvc
+https://www.c-sharpcorner.com/UploadFile/4fcb5a/step-by-step-implementing-t4-custom-templates-in-mvc5-projec/
+https://www.cnblogs.com/zcm123/p/5343813.html
