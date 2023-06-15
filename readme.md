@@ -1,5 +1,9 @@
 # MVC自訂TEMPLATE
 
+## Nuget Installation
+
+https://www.nuget.org/packages/Bootstrap5MvcViewTemplates/
+
 ## 使用步驟 [Video Link: https://www.youtube.com/watch?v=YhDYvHQcemY]
 
 ### 此版本只有改 Create, Edit 此兩頁, 其餘麻煩自己更改!!
